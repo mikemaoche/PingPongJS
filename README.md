@@ -1,6 +1,6 @@
 # PingPongJS
 
-Welcome to this project !
+Welcome to this project ! Made from scratch
 
 Let's make a quick introduction on how to setup the project on your desktop:
 
