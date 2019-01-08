@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.center {
+    width: 60%;
+    margin: 5em auto;
+    padding: 1em;
+}
+
+.bg {
+    background:rgb(0, 120, 255)
+}
+
+.table {
+    display: block;
+    outline: 4px solid white;
+    width:  500px;
+    height: 400px;
+    margin:auto;
+    background:rgb(3, 77, 46)
+}
+
+h1 {
+    text-align: center;
+    padding:1em;
+}
