@@ -11,7 +11,8 @@ Tools
 Steps
 * 1 - Clone the project from Github using HTTPS
 * 2 - In Sublime Text, open an existing project
-* 3 - Enjoy ! :)
+* 3 - Url: locahost or 127.0.0.1 once the server is launched
+* 4 - Enjoy ! :)
 
 Details
 > more information: 
