@@ -11,7 +11,7 @@ Tools
 Steps
 * 1 - Clone the project from Github using HTTPS
 * 2 - In Sublime Text, open an existing project
-* 4 - Enjoy ! :)
+* 3 - Enjoy ! :)
 
 Details
 > more information: 
